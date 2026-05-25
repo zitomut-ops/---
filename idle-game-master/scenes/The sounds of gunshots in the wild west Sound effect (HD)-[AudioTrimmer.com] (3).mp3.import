@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1e1bxsmoow40"
+path="res://.godot/imported/The sounds of gunshots in the wild west Sound effect (HD)-[AudioTrimmer.com] (3).mp3-77c8941eca7584cdd5531718d360175e.mp3str"
+
+[deps]
+
+source_file="res://scenes/The sounds of gunshots in the wild west Sound effect (HD)-[AudioTrimmer.com] (3).mp3"
+dest_files=["res://.godot/imported/The sounds of gunshots in the wild west Sound effect (HD)-[AudioTrimmer.com] (3).mp3-77c8941eca7584cdd5531718d360175e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

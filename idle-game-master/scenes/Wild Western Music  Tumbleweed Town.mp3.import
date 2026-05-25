@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0sdd5n1r60lh"
+path="res://.godot/imported/Wild Western Music  Tumbleweed Town.mp3-35588f388607c32da0de6a36e5596b0e.mp3str"
+
+[deps]
+
+source_file="res://scenes/Wild Western Music  Tumbleweed Town.mp3"
+dest_files=["res://.godot/imported/Wild Western Music  Tumbleweed Town.mp3-35588f388607c32da0de6a36e5596b0e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
